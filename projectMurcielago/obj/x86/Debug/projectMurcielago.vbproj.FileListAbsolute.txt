@@ -1,0 +1,28 @@
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmSignIn.resources
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.Resources.resources
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.vbproj.GenerateResource.Cache
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.exe
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.pdb
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.xml
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.exe
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.xml
+d:\usuario\documents\visual studio 2010\Projects\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.pdb
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.exe
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.xml
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.pdb
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.exe
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.pdb
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\bin\Debug\projectMurcielago.xml
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.AssignProyect.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmCreateUser.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmNewProject.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmNewPunch.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmReport.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmSignIn.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmVacation.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmVacationApproval.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.frmWelcome.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.modify_log.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.Resources.resources
+C:\Users\Daniel\Desktop\projectMurcielago\projectMurcielago\obj\x86\Debug\projectMurcielago.vbproj.GenerateResource.Cache
